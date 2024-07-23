@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "Academic"
-    url: /Academic/
+    url: Academic/
 
   - title: "Developer"
-    url: /dev/    
+    url: dev/    
 
   # - title: "Teaching"
   #   url: /teaching/    
