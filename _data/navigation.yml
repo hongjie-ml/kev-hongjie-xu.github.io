@@ -3,8 +3,8 @@ main:
   - title: "Academic"
     url: /Academic/
 
-  - title: "Front-end Developer"
-    url: /Frontdev/    
+  - title: "Developer"
+    url: /dev/    
 
   # - title: "Teaching"
   #   url: /teaching/    
