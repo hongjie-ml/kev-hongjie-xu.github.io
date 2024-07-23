@@ -1,10 +1,10 @@
 # main links links
 main:
-  # - title: "Publications"
-  #   url: /publications/
+  - title: "Academia"
+    url: /Academia/
 
-  # - title: "Talks"
-  #   url: /talks/    
+  - title: "Front-end Developer"
+    url: /Frontdev/    
 
   # - title: "Teaching"
   #   url: /teaching/    
