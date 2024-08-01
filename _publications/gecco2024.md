@@ -1,12 +1,12 @@
 ---
 title: "Machine Learning-Enhanced Ant Colony Optimization for Column Generation"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/gecco2024
 excerpt: ''
 date: 2024-07-14
 venue: 'GECCO 24'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://dl.acm.org/doi/10.1145/3638529.3654043'
 citation: ''
 ---
 
