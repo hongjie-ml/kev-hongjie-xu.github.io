@@ -3,6 +3,9 @@ main:
   - title: "Academic"
     url: /Academic/
 
+  - title: "DataScience"
+    url: /ds/
+
   - title: "Developer"
     url: /dev/    
 
