@@ -7,7 +7,26 @@ redirect_from:
   - /about.html
 ---
 
-I am currenly pursuing my PhD degree in Computer Science at RMIT University. My research interests mainly focus on the integration of machine learning and operations research. Operations research has been applied to solve complex large-scale industry problems, such as scheduling problems, vehicle routing problems, etc. 
+# Hello, welcome to my website!
+
+I am an data scientist and researcher, interested in data science and operations research. Before transitioning into computer science, I spent several years working in the business sector (Accounting-related Consulting). 
+
+My work interests are listed as follows: 
+
+## Academia
+
+I am currently pursuing my PhD in Computer Science at RMIT University, where my research focuses on integrating machine learning and operations research. Operations research is used to tackle complex, large-scale industry problems such as scheduling and vehicle routing.
+
+Although exact methods often provide excellent bound guarantees and are based on strong mathematical foundations, they frequently struggle with large-scale optimization problems. Recently, machine learning and data-driven approaches have been explored as solutions to these challenges. The "learn to optimize" paradigm aims to automatically design smart heuristic search algorithms, eliminating the need for manual design.
+
+My current search focuses on integrating ML-based heuristic methods with mathmatical programming method (e.g. column generation, branch & bound), aiming to solve large-scale optimization problems. 
+
+
+
+## Data Science
+
+editing ...
+<!-- ## Developer -->
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
