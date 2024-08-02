@@ -19,7 +19,7 @@ I am currently pursuing my PhD in Computer Science at RMIT University, where my 
 
 Although exact methods often provide excellent bound guarantees and are based on strong mathematical foundations, they frequently struggle with large-scale optimization problems. Recently, machine learning and data-driven approaches have been explored as solutions to these challenges. The "learn to optimize" paradigm aims to automatically design smart heuristic search algorithms, eliminating the need for manual design.
 
-![alt text](../images/ml4cop.PNG.png "ML4OR - bengio et al.(2021)")
+![alt text](https://blog.kevin-xu.com.au/images/ml4cop.PNG "ML4OR - bengio et al.(2021)")
 
 My current search focuses on integrating ML-based heuristic methods with mathmatical programming method (e.g. column generation, branch & bound), aiming to solve large-scale optimization problems. 
 
